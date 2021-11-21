@@ -47,7 +47,7 @@
     "url": "git+https://github.com/cleversonffaria/react-native-swiper.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/cleversonffaria"
   },
   "author": "",
   "license": "MIT",

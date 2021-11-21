@@ -5,7 +5,7 @@
     "react-native",
     "ios"
   ],
-  "version": "1.6.2",
+  "version": "1.0.0",
   "description": "Swiper component for React Native.",
   "main": "index.js",
   "scripts": {
@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cleversonffaria/react-native-swiper.git"
+    "url": "https://github.com/cleversonffaria/react-native-swiper"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/cleversonffaria"
+    "@cleversonffaria:registry": "https://npm.pkg.github.com"
   },
-  "author": "",
+  "author": "cleversonffaria <cleversonffaria@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cleversonffaria/react-native-swiper/issues"

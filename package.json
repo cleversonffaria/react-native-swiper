@@ -5,7 +5,7 @@
     "react-native",
     "ios"
   ],
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Swiper component for React Native.",
   "main": "index.js",
   "scripts": {
@@ -47,7 +47,7 @@
     "url": "git+https://github.com/cleversonffaria/react-native-swiper.git"
   },
   "publishConfig": {
-    "@cleversonffaria:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "",
   "license": "MIT",
